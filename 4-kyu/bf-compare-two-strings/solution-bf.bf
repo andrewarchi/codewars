@@ -18,12 +18,12 @@ Compares two comma separated strings for equality
   +++++++.                                  Print s (115)
   >>[-]
 ]
-<[                                         If equal:  
-  -<                                         Clear flag
-  ++++++++.                                  Print t (116)
-  --.                                        Print r (114)
-  +++.                                       Print u (117)
-  --                                         Set to 115
+<[                                        If equal:  
+  -<                                        Clear flag
+  ++++++++.                                 Print t (116)
+  --.                                       Print r (114)
+  +++.                                      Print u (117)
+  --                                        Set to 115
   >
 ]
-<--------------.                           Print e (101)
+<--------------.                          Print e (101)
